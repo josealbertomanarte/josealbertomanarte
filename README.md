@@ -40,7 +40,7 @@
 
 </br>
 
-< Developer since 2009 >
+<h6 align="center">< Developer since 2009 ></h6>
 
 <!---
 jalmanneto/jalmanneto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

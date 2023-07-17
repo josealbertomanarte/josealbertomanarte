@@ -26,14 +26,21 @@
 
 <div>
   <img src="https://img.shields.io/badge/-JavaScript-256c6f?style=flat&logo=javascript"></img>  
-  <img src="https://img.shields.io/badge/-Python-256c6f?style=flat&logo=python"></img> 
+  <img src="https://img.shields.io/badge/-Python-256c6f?style=flat&logo=python"></img>    
 </div>
 
-. Current status
+</br>
 
-<img src="https://img.shields.io/badge/Working-D14836?style=for-the-badge"></img>
+. Current status 
 
-< Since 2009 >
+
+<div>
+<img src="https://img.shields.io/badge/Working-D14836?style=for-the-badge-m"></img>
+</div>
+
+</br>
+
+< Developer since 2009 >
 
 <!---
 jalmanneto/jalmanneto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

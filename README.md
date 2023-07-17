@@ -23,6 +23,7 @@
 </div>
 
 . Learning
+
 <div>
   <img src="https://img.shields.io/badge/-JavaScript-256c6f?style=flat&logo=javascript"></img>  
   <img src="https://img.shields.io/badge/-Python-256c6f?style=flat&logo=python"></img> 

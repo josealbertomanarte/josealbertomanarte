@@ -1,6 +1,6 @@
 . Hi dear, I´m José Alberto Manarte! 
 
-. Self-taught, enthusiast and front-end developer in his spare time;
+. Self-taught, enthusiast and front-end developer in spare time;
 
 <img src="https://img.shields.io/badge/UX/UI%20-Team-254c6f.svg"></img>
 
